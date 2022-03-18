@@ -6,7 +6,9 @@ public class VisszalepesGitProba {
 
 
     public static void main(String[] args) {
-       metodus();
+
+       VisszalepesGitProba ke =new VisszalepesGitProba();
+       ke.metodus();
     }
    static void metodus(){
         System.out.println("valami");
